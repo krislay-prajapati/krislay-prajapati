@@ -100,7 +100,7 @@
   <a href="https://www.instagram.com/kris_lay_22/">
     <img src="https://img.shields.io/badge/Instagram-D6A06A?style=for-the-badge&logo=instagram&logoColor=1B1410" alt="Instagram" />
   </a>
-  <a href="mailto:krislaykumar@gmail.com">
+  <a href="mailto:krislaykumarprajapati@gmail.com">
     <img src="https://img.shields.io/badge/Email-DDC2AC?style=for-the-badge&logo=gmail&logoColor=1B1410" alt="Email" />
   </a>
 </p>
