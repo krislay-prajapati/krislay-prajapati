@@ -9,7 +9,7 @@
 
 <p align="center">
   <strong>
-    <span style="color:#DDC2AC;"> Krislay Kumar Prajapati · Full Stack Developer · React | Mongodb | Node.js | Next.js · Ai Builder </span>
+    <span style="color:#DDC2AC;">Krislay Kumar Prajapati · Full Stack Engineer & AI Builder · Building scalable web applications</span>
   </strong>
 </p>
 
