@@ -34,10 +34,9 @@
 - 💻 **Full Stack Developer** focused on building clean and functional web apps.
 - 🌱 Currently exploring and leveling up in **Backend, Cloud & DevOps**.
 - 🚀 Building **AI-powered projects** and contributing to Open Source.
-- 🎯 **Goal:** Create products that solve real-world problems.
-- 🌌 Passionate about AI and building things that matter.
-- ✨ Always chasing the next idea worth building.
-
+- 🎯 **Objective:** Deliver functional software that addresses practical, real-world challenges.
+- 🧠 Engaged in continuous experimentation with emerging technologies and intelligent workflows.
+- ✨ Focused on transforming conceptual ideas into efficient, production-ready code.
 </td>
 <td width="35%" align="center" valign="middle">
   <img src="./Coded%20Calm_%20Anime%20Tech%20Poster.png" width="180" alt="Krislay Character" />
