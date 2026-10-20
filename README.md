@@ -31,8 +31,8 @@
 <tr>
 <td width="65%" valign="top">
 
-- 💻 **Full Stack Developer** passionate about building modern web apps.
-- 🌱 Currently learning **Backend, Cloud & DevOps**.
+- 💻 **Full Stack Developer** focused on building clean and functional web apps.
+- 🌱 Currently exploring and leveling up in **Backend, Cloud & DevOps**.
 - 🚀 Building **AI-powered projects** and contributing to Open Source.
 - 🎯 **Goal:** Create products that solve real-world problems.
 - 🌌 Passionate about AI and building things that matter.
