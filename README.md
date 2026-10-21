@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">
-  Hey there, I'm <span style="color:#D6A06A;">Krislay Kumar Prajapati</span> 👋
+  Hey there, I'm <span style="color:#D6A06A;"> Krislay Kumar Prajapati</span> 👋
 </h1>
 
 <p align="center">
@@ -105,7 +105,7 @@
 </p>
 
 <p align="center">
-  <strong>See you in the next commit 💫</strong>
+  <strong>Seee you in the next commit 💫</strong>
 </p>
 
 <p align="center">
