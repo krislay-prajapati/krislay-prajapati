@@ -7,11 +7,11 @@
   Hey there, I'm <span style="color:#D6A06A;"> Krislay Kumar Prajapati</span> 👋
 </h1>
 
-<p align="center">
+<!-- <p align="center">
   <strong>
     <span style="color:#DDC2AC;">Krislay Kumar Prajapati · Full Stack Engineer & AI Builder · Building scalable web applications</span>
   </strong>
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3500&pause=1000&color=DDC2AC&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;AI+Builder;Open+Source+Enthusiast;Problem+Solver" alt="Typing SVG" />
