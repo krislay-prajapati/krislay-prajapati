@@ -59,7 +59,7 @@
 <table align="center">
 <tr>
 <td width="50%" align="center" valign="middle">
-  <img src="https://github-readme-stats.vercel.app/api?username=krislay-prajapati&show_icons=true&hide_border=true&bg_color=1B1410&title_color=D6A06A&text_color=DDC2AC&icon_color=D6A06A&ring_color=D6A06A&cache_seconds=3600" alt="GitHub Stats" width="100%" />
+  <img src="[[https://github-readme-stats.vercel.app/api?username=krislay-prajapati&show_icons=true&hide_border=true&bg_color=1B1410&title_color=D6A06A&text_color=DDC2AC&icon_color=D6A06A&ring_color=D6A06A&cache_seconds=3600](https://github-readme-stats.vercel.app/api?username=krislay-prajapati&show_icons=true&hide_border=true&bg_color=1B1410&title_color=D6A06A&text_color=DDC2AC&icon_color=D6A06A&ring_color=D6A06A&cache_seconds=3600)](https://camo.githubusercontent.com/03efc8759b6eb7a88c2d73bab54f61874f0e3cfd2f2652035e51860b1afad861/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6b7269736c61792d7072616a61706174692673686f775f69636f6e733d7472756526686964655f626f726465723d747275652662675f636f6c6f723d314231343130267469746c655f636f6c6f723d44364130364126746578745f636f6c6f723d4444433241432669636f6e5f636f6c6f723d4436413036412672696e675f636f6c6f723d4436413036412663616368655f7365636f6c6f723d33363030)" alt="GitHub Stats" width="100%" />
 </td>
 <td width="50%" align="center" valign="middle">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krislay-prajapati&layout=compact&hide_border=true&bg_color=1B1410&title_color=D6A06A&text_color=DDC2AC" alt="Most Used Languages" width="100%" />
