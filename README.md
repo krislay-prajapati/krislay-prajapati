@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="./Krislay%E2%80%99s%20Midnight%20Developer%20Workspace.png" alt="Krislay's Banner" width="100%">
 </p>
@@ -6,12 +5,6 @@
 <h1 align="center">
   Hey there, I'm <span style="color:#D6A06A;"> Krislay Kumar Prajapati</span> 👋
 </h1>
-
-<!-- <p align="center">
-  <strong>
-    <span style="color:#DDC2AC;">Krislay Kumar Prajapati · Full Stack Engineer & AI Builder · Building scalable web applications</span>
-  </strong>
-</p> -->
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3500&pause=1000&color=DDC2AC&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;AI+Builder;Open+Source+Enthusiast;Problem+Solver" alt="Typing SVG" />
@@ -66,7 +59,7 @@
 <table align="center">
 <tr>
 <td width="50%" align="center" valign="middle">
-  <img src="https://github-readme-stats.vercel.app/api?username=krislay-prajapati&show_icons=true&hide_border=true&bg_color=1B1410&title_color=D6A06A&text_color=DDC2AC&icon_color=D6A06A&ring_color=D6A06A" alt="GitHub Stats" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=krislay-prajapati&show_icons=true&hide_border=true&bg_color=1B1410&title_color=D6A06A&text_color=DDC2AC&icon_color=D6A06A&ring_color=D6A06A&cache_seconds=3600" alt="GitHub Stats" width="100%" />
 </td>
 <td width="50%" align="center" valign="middle">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krislay-prajapati&layout=compact&hide_border=true&bg_color=1B1410&title_color=D6A06A&text_color=DDC2AC" alt="Most Used Languages" width="100%" />
