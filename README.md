@@ -69,7 +69,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=krislay-prajapati&show_icons=true&hide_border=true&bg_color=1B1410&title_color=D6A06A&text_color=DDC2AC&icon_color=D6A06A&ring_color=D6A06A" alt="GitHub Stats" width="100%" />
 </td>
 <td width="50%" align="center" valign="middle">
-  <img src="https://github-readme-stats.vercel.app/api?username=krislay-prajapati&show_icons=true&hide_border=true&bg_color=1B1410&title_color=D6A06A&text_color=DDC2AC&icon_color=D6A06A&ring_color=D6A06A" alt="GitHub Stats" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krislay-prajapati&layout=compact&hide_border=true&bg_color=1B1410&title_color=D6A06A&text_color=DDC2AC" alt="Most Used Languages" width="100%" />
 </td>
 </tr>
 </table>
