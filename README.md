@@ -43,7 +43,7 @@
 <h2 align="center">💻 Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,mongodb,tailwind,git,github,vscode,figma,postman,bash,npm,pnpm,yarn&perline=10" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,mongodb,tailwind,git,github,vscode,figma,postman,bash,npm,pnpm&perline=10" alt="Tech Stack" />
 </p>
 
 <p align="center">
