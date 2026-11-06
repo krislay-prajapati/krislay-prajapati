@@ -30,7 +30,7 @@
 - 🎯 **Objective:** Deliver functional software that addresses practical, real-world challenges.
 - 🧠 Engaged in continuous experimentation with emerging technologies and intelligent workflows.
 - ✨ Focused on transforming **conceptual** ideas into efficient, production-ready code.
-- 💡 Practicing Competitive Programming & Data Structures
+
 </td>
 <td width="35%" align="center" valign="middle">
   <img src="./Coded%20Calm_%20Anime%20Tech%20Poster.png" width="180" alt="Krislay Character" />
